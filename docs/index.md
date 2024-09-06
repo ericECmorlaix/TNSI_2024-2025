@@ -587,10 +587,11 @@ Liens utiles pour des révisions de l'épreuve écrite :
 -->
 
 ***
-## Du 04/09
+## Le 06/09
 
 === "CONTENU DE SÉANCE"
 
+    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} avec le code Sésame `KY80B0QXV` ;
     - Organiser [un classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){:target="_blank"} -> ==**Reprendre** en main l'environnement web de Visual Studio Code depuis votre iPad et depuis un des PC du labo de SI pour gérer vos fichiers== ;
     - [Notion de paradigme de programmation](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/Notion_de_Paradigmes-Introduction.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/Notion_de_Paradigmes-Introduction.ipynb){ .md-button .md-button--primary} -> ==**regarder** rapidement le début de la vidéo et **faire** les activités de révisions associées==
 
