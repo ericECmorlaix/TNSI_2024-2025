@@ -573,6 +573,18 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 -->
 
+## Le 16/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur le T.A.F. ;
+
+    - Introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [Capytale n°914d-3933344](https://capytale2.ac-paris.fr/web/c/914d-3933344){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** l'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} ;
+
 ***
 ## Le 09/09
 
