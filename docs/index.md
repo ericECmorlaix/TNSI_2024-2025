@@ -573,13 +573,20 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 -->
 
-## Le 16/09
+## Les 16 et 20/09
 
 === "CONTENU DE SÉANCE"
 
     - Retour sur le T.A.F. ;
 
     - Introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [Capytale n°914d-3933344](https://capytale2.ac-paris.fr/web/c/914d-3933344){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} ;
+
+    - **Explorer** les environnements de développement associés aux projets de la fête de la science et y appliquer de la POO :
+
+        - *Robot sous-marin* : programmation d'un [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} avec communication point à point pour radiocommander un [robot](https://ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique/){target=_blank} ;
+        - *Elévation des océans* : programmation distante à travers un LAN d'un [Lego EV3](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
+        - *Communication en mer* :  Communication TCP/IP, HTTP et IOT avec un [ESP32](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
+        - *Pollution plastique en mer* :  Programmation Orientée Objet avec Pyxel, [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;        
 
 === "TRAVAIL À FAIRE"
 
