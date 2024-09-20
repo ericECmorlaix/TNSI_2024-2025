@@ -556,7 +556,7 @@ Liens utiles pour des révisions de l'épreuve écrite :
 === "TRAVAIL À FAIRE"
 
     - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
-    - **S'entrainer avec Pyxel pour la Nuit du c0de** : [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;
+    - **S'entrainer avec Pyxel pour la Nuit du c0de** : [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;
     - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
 
 ## Les 19 et 21/09 (2h + 1h)
@@ -585,8 +585,8 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
         - *Robot sous-marin* : programmation d'un [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} avec communication point à point pour radiocommander un [robot](https://ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique/){target=_blank} ;
         - *Elévation des océans* : programmation distante à travers un LAN d'un [Lego EV3](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
-        - *Communication en mer* :  Communication TCP/IP, HTTP et IOT avec un [ESP32](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
-        - *Pollution plastique en mer* :  Programmation Orientée Objet avec Pyxel, [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;        
+        - *Communication en mer* :  Communication TCP/IP, HTTP et IOT avec un [ESP32](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/ESP/32/){target=_blank} ;
+        - *Pollution plastique en mer* :  Programmation Orientée Objet avec Pyxel, [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;        
 
 === "TRAVAIL À FAIRE"
 
