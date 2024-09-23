@@ -556,23 +556,43 @@ Liens utiles pour des révisions de l'épreuve écrite :
 === "TRAVAIL À FAIRE"
 
     - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
-    - **S'entrainer avec Pyxel pour la Nuit du c0de** : [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;
+
     - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
-
-## Les 19 et 21/09 (2h + 1h)
-
-=== "CONTENU DE SÉANCE"
-
-    - Retour sur le T.A.F. ;
-
-    - Introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** l'introduction à la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} ;
 
 -->
 
+***
+## Du 23/09
+
+=== "CONTENU DE SÉANCE"    
+
+    - Retour sur le T.A.F. ;
+
+    - [Synthèse de Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/POO-SyntheseProgrammationOrienteeObjet.ipynb){target=_blank} 
+    [Capytale n° af58-4011978](https://capytale2.ac-paris.fr/web/c/af58-4011978){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/POO-SyntheseProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary};
+
+    - **Explorer** les environnements de développement associés aux projets de la fête de la science et y appliquer de la POO :
+
+        - *Robot sous-marin* : programmation d'un [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} avec communication point à point pour radiocommander un [robot](https://ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique/){target=_blank} ;
+        - *Elévation des océans* : programmation distante à travers un LAN d'un [Lego EV3](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
+        - *Communication en mer* :  Communication TCP/IP, HTTP et IOT avec un [ESP32](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/ESP/32/){target=_blank} ;
+        - *Pollution plastique en mer* :  Programmation Orientée Objet avec Pyxel, [POOng-Le_TP_qui_fait_des_bonds](https://capytale2.ac-paris.fr/web/c/f3aa-4011176){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;        
+
+=== "TRAVAIL À FAIRE"
+
+    - **S'entrainer** en POO en réalisant des exercices pratiques :
+        
+        - [`programmeur.saisit(code)`](https://codex.forge.apps.education.fr/exercices/syntaxe_poo/#programmeursaisitcode){target=_blank} ;
+        - [La classe Chien](https://codex.forge.apps.education.fr/exercices/poo_chien/#la-classe-chien){target=_blank} ;
+        - [Géométrie vectorielle en POO](https://codex.forge.apps.education.fr/en_travaux/geometrie_vectorielle_POO/){target=_blank} _Maths_ ;
+        - [La domotique (I)](https://codex.forge.apps.education.fr/en_travaux/domotique/){target=_blank} ;
+        - [La domotique (II)](https://codex.forge.apps.education.fr/en_travaux/domotique_II/){target=_blank} ;
+        - [Carrés semi-magiques (POO)](https://codex.forge.apps.education.fr/exercices/carre_semi_magiques/){target=_blank} _Tableaux;
+        - [La Belote](https://codex.forge.apps.education.fr/en_travaux/belote/#la-belote){target=_blank} _Dictionnaires_;
+        - [Programmer un robot (2)](https://codex.forge.apps.education.fr/en_travaux/robot_2/){target=_blank} _Chaines de caractères_;
+
+***
 ## Les 16 et 20/09
 
 === "CONTENU DE SÉANCE"
@@ -586,7 +606,7 @@ Liens utiles pour des révisions de l'épreuve écrite :
         - *Robot sous-marin* : programmation d'un [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} avec communication point à point pour radiocommander un [robot](https://ericecmorlaix.github.io/1SI_2023-2024/Projet/Robotique/){target=_blank} ;
         - *Elévation des océans* : programmation distante à travers un LAN d'un [Lego EV3](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
         - *Communication en mer* :  Communication TCP/IP, HTTP et IOT avec un [ESP32](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/ESP/32/){target=_blank} ;
-        - *Pollution plastique en mer* :  Programmation Orientée Objet avec Pyxel, [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;        
+        - *Pollution plastique en mer* :  Programmation Orientée Objet avec Pyxel, [POOng-Le_TP_qui_fait_des_bonds](https://capytale2.ac-paris.fr/web/c/f3aa-4011176){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;        
 
 === "TRAVAIL À FAIRE"
 
