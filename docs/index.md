@@ -488,28 +488,9 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 ***
 
-## Les 17, 19/10, 07 et 09/11 (2h + 1h + 2h + 1h)
 
-=== "CONTENU DE SÉANCE"    
 
-    - Structure Linéaire de Données :
-        - [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste.ipynb){ .md-button .md-button--primary} ;
-        - [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){ .md-button .md-button--primary} ;
-        - [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){ .md-button .md-button--primary} ;
 
-    - **Appliquer** la POO à la programmation de vos projets pour la Fête de la Science reportée au lundi 13 novembre ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Se préparer** pour une évaluation sur la POO, les listes chainées et la programmation impérative et procédurale en Python plus généralement pour la rentrée.
-
-    - **Faire** [le devoir maison sur la POO et les listes chainées](./SD/DM_POO_Liste.pdf){target=_blank} pour le jeudi 09/11 [Zip du document en MarkDown](./SD/DM_POO_Liste.zip) ; 
-
-    - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
-    - **S'entrainer avec Pyxel pour la Nuit du c0de** : [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;
-    - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;    
-
-***
 
 ## Les 10 et 12/10 (2h + 1h)
 
@@ -517,49 +498,70 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
     - Propositions de correction pour l'exercice [Série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/Proposition_Exercice_Notes_Complet.ipynb) en programmation impérative et procédurale avec gestion des erreurs ->==Faire le travail de modularisation démandé== [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/Proposition_Exercice_Notes_Complet.ipynb){ .md-button .md-button--primary};
 
-    - [Synthèse de Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POO-SyntheseProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary};
 
-    - **Appliquer** la POO à la programmation de vos projets pour la Fête de la Science ;
 
 === "TRAVAIL À FAIRE"
 
     - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
     - **S'entrainer avec Pyxel pour la Nuit du c0de** : [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;
-    - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
-    
-***
-## Du 28/09 au 05/10 (1h + 2h + 1h)
-
-=== "CONTENU DE SÉANCE"
-
-    - Prise en main de la [programmation en MicroPython des Lego EV3](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/Lego/EV3/){target=_blank} ;
-
-    - Prise en main de la [programmation en MicroPython des ESP32](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/ESP/32/){target=_blank} ;
-
-    - **Appliquer** la POO à la programmation de vos projets pour la Fête de la Science ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
-    - **S'entrainer avec Pyxel pour la Nuit du c0de** : [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;
-    - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
-
-
-## Le 26/09 (2h)
-
-=== "CONTENU DE SÉANCE"
-
-    - **Finir** la [Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POO-IntroductionProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary} et le **rendre** par [mail] ;
-
-    - **Faire** des [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
-
     - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
 
 -->
+## Du 09/10
+
+=== "CONTENU DE SÉANCE"    
+
+    - Structure Linéaire de Données :
+        - [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste.ipynb){target=_blank} [Capytale n° f652-4226408](https://capytale2.ac-paris.fr/web/c/f652-4226408){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste.ipynb){ .md-button .md-button--primary} ;
+        - [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){target=_blank} [Capytale n° 39ef-4226515](https://capytale2.ac-paris.fr/web/c/39ef-4226515){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){ .md-button .md-button--primary} ;
+        - [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){target=_blank} [Capytale n° 48d0-4226569](https://capytale2.ac-paris.fr/web/c/48d0-4226569){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){ .md-button .md-button--primary} ;
+
+
+=== "TRAVAIL À FAIRE"
+
+    - **Se préparer** pour une évaluation sur la POO, les listes chainées et la programmation impérative et procédurale en Python plus généralement.
+      
+    - **S'entrainer** en réalisant des exercices pratiques :
+        
+        - [`programmeur.saisit(code)`](https://codex.forge.apps.education.fr/exercices/syntaxe_poo/#programmeursaisitcode){target=_blank} ;
+        - [La classe Chien](https://codex.forge.apps.education.fr/exercices/poo_chien/#la-classe-chien){target=_blank} ;
+        - [Géométrie vectorielle en POO](https://codex.forge.apps.education.fr/en_travaux/geometrie_vectorielle_POO/){target=_blank} _Maths_ ;
+        - [La domotique (I)](https://codex.forge.apps.education.fr/en_travaux/domotique/){target=_blank} ;
+        - [La domotique (II)](https://codex.forge.apps.education.fr/en_travaux/domotique_II/){target=_blank} ;
+        - [Carrés semi-magiques (POO)](https://codex.forge.apps.education.fr/exercices/carre_semi_magiques/){target=_blank} _Tableaux_ ;
+        - [La Belote](https://codex.forge.apps.education.fr/en_travaux/belote/#la-belote){target=_blank} _Dictionnaires_;
+        - [Programmer un robot (2)](https://codex.forge.apps.education.fr/en_travaux/robot_2/){target=_blank} _Structure linéaire_ ;
+        - [Mme Tortue et M. Lièvre font la course](https://codex.forge.apps.education.fr/exercices/lievre_tortue/){target=_blank} _Chaines de caractères_ ;
+        - [Jeu de la ronde (2)](https://codex.forge.apps.education.fr/en_travaux/ronde_2/){target=_blank} _Structure linéaire_ ;
+        - [Évaluation d'une expression postfixe](https://codex.forge.apps.education.fr/exercices/eval_postfixe/){target=_blank} _Piles_ ;
+        - [Filtre des nombres positifs d'une pile](https://codex.forge.apps.education.fr/exercices/filtre_pile/){target=_blank} _Piles_ ;
+        - [Parenthésage correct](https://codex.forge.apps.education.fr/en_travaux/parentheses/){target=_blank} _Piles_ ;
+        - [Expression bien parenthésée (2)](https://codex.forge.apps.education.fr/exercices/expression_bien_parenthesee_2/){target=_blank} _Piles_;
+        - [File avec deux piles](https://codex.forge.apps.education.fr/en_travaux/file_deux_piles/){target=_blank} _Structure linéaire_ ; 
+        - [Autour des files](https://codex.forge.apps.education.fr/exercices/autour_des_files/){target=_blank} _Files_ ;
+        - [File à partir d'une liste chainée](https://codex.forge.apps.education.fr/exercices/file_avec_liste/){target=_blank} _Files_ ;
+        
+***
+## Du 23/09
+
+=== "CONTENU DE SÉANCE"    
+
+    - [Synthèse de Programmation Orientée Objet](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/POO-SyntheseProgrammationOrienteeObjet.ipynb){target=_blank} 
+    [Capytale n° af58-4011978](https://capytale2.ac-paris.fr/web/c/af58-4011978){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/POO-SyntheseProgrammationOrienteeObjet.ipynb){ .md-button .md-button--primary};
+    
+=== "TRAVAIL À FAIRE"
+
+    - **S'entrainer** en POO en réalisant des exercices pratiques :
+        
+        - [`programmeur.saisit(code)`](https://codex.forge.apps.education.fr/exercices/syntaxe_poo/#programmeursaisitcode){target=_blank} ;
+        - [La classe Chien](https://codex.forge.apps.education.fr/exercices/poo_chien/#la-classe-chien){target=_blank} ;
+        - [Géométrie vectorielle en POO](https://codex.forge.apps.education.fr/en_travaux/geometrie_vectorielle_POO/){target=_blank} _Maths_ ;
+        - [La domotique (I)](https://codex.forge.apps.education.fr/en_travaux/domotique/){target=_blank} ;
+        - [La domotique (II)](https://codex.forge.apps.education.fr/en_travaux/domotique_II/){target=_blank} ;
+        - [Carrés semi-magiques (POO)](https://codex.forge.apps.education.fr/exercices/carre_semi_magiques/){target=_blank} _Tableaux;
+        - [La Belote](https://codex.forge.apps.education.fr/en_travaux/belote/#la-belote){target=_blank} _Dictionnaires_;
+        - [Programmer un robot (2)](https://codex.forge.apps.education.fr/en_travaux/robot_2/){target=_blank} _Chaines de caractères_;
 
 ***
 ## Du 23/09
