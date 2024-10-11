@@ -525,21 +525,21 @@ Liens utiles pour des révisions de l'épreuve écrite :
         
         - [`programmeur.saisit(code)`](https://codex.forge.apps.education.fr/exercices/syntaxe_poo/#programmeursaisitcode){target=_blank} ;
         - [La classe Chien](https://codex.forge.apps.education.fr/exercices/poo_chien/#la-classe-chien){target=_blank} ;
-        - [Géométrie vectorielle en POO](https://codex.forge.apps.education.fr/en_travaux/geometrie_vectorielle_POO/){target=_blank} _Maths_ ;
+        - [Géométrie vectorielle en POO](https://codex.forge.apps.education.fr/en_travaux/geometrie_vectorielle_POO/){target=_blank} *Maths* ;
         - [La domotique (I)](https://codex.forge.apps.education.fr/en_travaux/domotique/){target=_blank} ;
         - [La domotique (II)](https://codex.forge.apps.education.fr/en_travaux/domotique_II/){target=_blank} ;
-        - [Carrés semi-magiques (POO)](https://codex.forge.apps.education.fr/exercices/carre_semi_magiques/){target=_blank} _Tableaux_ ;
-        - [La Belote](https://codex.forge.apps.education.fr/en_travaux/belote/#la-belote){target=_blank} _Dictionnaires_;
-        - [Programmer un robot (2)](https://codex.forge.apps.education.fr/en_travaux/robot_2/){target=_blank} _Structure linéaire_ ;
-        - [Mme Tortue et M. Lièvre font la course](https://codex.forge.apps.education.fr/exercices/lievre_tortue/){target=_blank} _Chaines de caractères_ ;
-        - [Jeu de la ronde (2)](https://codex.forge.apps.education.fr/en_travaux/ronde_2/){target=_blank} _Structure linéaire_ ;
-        - [Évaluation d'une expression postfixe](https://codex.forge.apps.education.fr/exercices/eval_postfixe/){target=_blank} _Piles_ ;
-        - [Filtre des nombres positifs d'une pile](https://codex.forge.apps.education.fr/exercices/filtre_pile/){target=_blank} _Piles_ ;
-        - [Parenthésage correct](https://codex.forge.apps.education.fr/en_travaux/parentheses/){target=_blank} _Piles_ ;
-        - [Expression bien parenthésée (2)](https://codex.forge.apps.education.fr/exercices/expression_bien_parenthesee_2/){target=_blank} _Piles_;
-        - [File avec deux piles](https://codex.forge.apps.education.fr/en_travaux/file_deux_piles/){target=_blank} _Structure linéaire_ ; 
-        - [Autour des files](https://codex.forge.apps.education.fr/exercices/autour_des_files/){target=_blank} _Files_ ;
-        - [File à partir d'une liste chainée](https://codex.forge.apps.education.fr/exercices/file_avec_liste/){target=_blank} _Files_ ;
+        - [Carrés semi-magiques (POO)](https://codex.forge.apps.education.fr/exercices/carre_semi_magiques/){target=_blank} *Tableaux* ;
+        - [La Belote](https://codex.forge.apps.education.fr/en_travaux/belote/#la-belote){target=_blank} *Dictionnaires*;
+        - [Programmer un robot (2)](https://codex.forge.apps.education.fr/en_travaux/robot_2/){target=_blank} *Chaines de caractères* ;
+        - [Mme Tortue et M. Lièvre font la course](https://codex.forge.apps.education.fr/exercices/lievre_tortue/){target=_blank} *Structure linéaire* ;
+        - [Jeu de la ronde (2)](https://codex.forge.apps.education.fr/en_travaux/ronde_2/){target=_blank} *Structure linéaire* ;
+        - [Évaluation d'une expression postfixe](https://codex.forge.apps.education.fr/exercices/eval_postfixe/){target=_blank} *Piles* ;
+        - [Filtre des nombres positifs d'une pile](https://codex.forge.apps.education.fr/exercices/filtre_pile/){target=_blank} *Piles* ;
+        - [Parenthésage correct](https://codex.forge.apps.education.fr/en_travaux/parentheses/){target=_blank} *Piles* ;
+        - [Expression bien parenthésée (2)](https://codex.forge.apps.education.fr/exercices/expression_bien_parenthesee_2/){target=_blank} *Piles*;
+        - [File avec deux piles](https://codex.forge.apps.education.fr/en_travaux/file_deux_piles/){target=_blank} *Structure linéaire* ; 
+        - [Autour des files](https://codex.forge.apps.education.fr/exercices/autour_des_files/){target=_blank} *Files* ;
+        - [File à partir d'une liste chainée](https://codex.forge.apps.education.fr/exercices/file_avec_liste/){target=_blank} *Files* ;
         
 ***
 ## Du 23/09
