@@ -506,9 +506,50 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **S'entrainer avec Pyxel pour la Nuit du c0de** : [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;
     - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
 
-
-
 -->
+***
+
+## Du 05/11
+
+=== "CONTENU DE SÉANCE"    
+
+    - Correction de l'évaluation POO, Liste [partie 1](./SD/Eval_1p1_POO_Liste.pdf){target=_blank} ;
+
+    - **Découvrir** la [programmation récursive](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/Recursif.ipynb){target=_blank} [Capytale n° 1101-4437530](https://capytale2.ac-paris.fr/web/c/1101-4437530){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/Recursif.ipynb){ .md-button .md-button--primary} ;
+
+    - **Proposer** une version récursive pour la fonction `longueur(liste)` qui renvoie la longueur de la liste chaînée `liste` telle que définie dans [l'évaluation 1 partie 1](./SD/Eval_1p1_POO_Liste.pdf){target=_blank} ;    
+
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** Structure Linéaire de Données :
+        - [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste.ipynb){target=_blank} [Capytale n° f652-4226408](https://capytale2.ac-paris.fr/web/c/f652-4226408){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste.ipynb){ .md-button .md-button--primary} ;
+        - [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){target=_blank} [Capytale n° 39ef-4226515](https://capytale2.ac-paris.fr/web/c/39ef-4226515){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){ .md-button .md-button--primary} ;
+        - [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){target=_blank} [Capytale n° 48d0-4226569](https://capytale2.ac-paris.fr/web/c/48d0-4226569){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){ .md-button .md-button--primary} ;
+    
+    - **Faire** le [DM](./SD/DM_Pile_File.pdf) et la [partie 3](./SD/Eval_1p3_POO_Liste_Pile.pdf){target=_blank} de l'évaluation POO, Liste et Pile ;
+      
+    - **S'entrainer** en réalisant des exercices pratiques :
+        
+        - [`programmeur.saisit(code)`](https://codex.forge.apps.education.fr/exercices/syntaxe_poo/#programmeursaisitcode){target=_blank} ;
+        - [La classe Chien](https://codex.forge.apps.education.fr/exercices/poo_chien/#la-classe-chien){target=_blank} ;
+        - [Géométrie vectorielle en POO](https://codex.forge.apps.education.fr/en_travaux/geometrie_vectorielle_POO/){target=_blank} *Maths* ;
+        - [La domotique (I)](https://codex.forge.apps.education.fr/en_travaux/domotique/){target=_blank} ;
+        - [La domotique (II)](https://codex.forge.apps.education.fr/en_travaux/domotique_II/){target=_blank} ;
+        - [Carrés semi-magiques (POO)](https://codex.forge.apps.education.fr/exercices/carre_semi_magiques/){target=_blank} *Tableaux* ;
+        - [La Belote](https://codex.forge.apps.education.fr/en_travaux/belote/#la-belote){target=_blank} *Dictionnaires*;
+        - [Programmer un robot (2)](https://codex.forge.apps.education.fr/en_travaux/robot_2/){target=_blank} *Chaines de caractères* ;
+        - [Mme Tortue et M. Lièvre font la course](https://codex.forge.apps.education.fr/exercices/lievre_tortue/){target=_blank} *Structure linéaire* ;
+        - [Jeu de la ronde (2)](https://codex.forge.apps.education.fr/en_travaux/ronde_2/){target=_blank} *Structure linéaire* ;
+        - [Évaluation d'une expression postfixe](https://codex.forge.apps.education.fr/exercices/eval_postfixe/){target=_blank} *Piles* ;
+        - [Filtre des nombres positifs d'une pile](https://codex.forge.apps.education.fr/exercices/filtre_pile/){target=_blank} *Piles* ;
+        - [Parenthésage correct](https://codex.forge.apps.education.fr/en_travaux/parentheses/){target=_blank} *Piles* ;
+        - [Expression bien parenthésée (2)](https://codex.forge.apps.education.fr/exercices/expression_bien_parenthesee_2/){target=_blank} *Piles*;
+        - [File avec deux piles](https://codex.forge.apps.education.fr/en_travaux/file_deux_piles/){target=_blank} *Structure linéaire* ; 
+        - [Autour des files](https://codex.forge.apps.education.fr/exercices/autour_des_files/){target=_blank} *Files* ;
+        - [File à partir d'une liste chainée](https://codex.forge.apps.education.fr/exercices/file_avec_liste/){target=_blank} *Files* ;   
+        
+***
 
 ## Les 17 et18/10
 
