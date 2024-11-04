@@ -517,7 +517,7 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
     - **Découvrir** la [programmation récursive](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/Recursif.ipynb){target=_blank} [Capytale n° 1101-4437530](https://capytale2.ac-paris.fr/web/c/1101-4437530){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/Recursif.ipynb){ .md-button .md-button--primary} ;
 
-    - **Proposer** une version récursive pour la fonction `longueur(liste)` qui renvoie la longueur de la liste chaînée `liste` telle que définie dans [l'évaluation 1 partie 1](./SD/Eval_1p1_POO_Liste.pdf){target=_blank} ;    
+    - **Proposer** une version récursive pour la fonction `longueur(liste)` qui renvoie la longueur de la liste chaînée `liste` telle que définie dans [l'évaluation 1 partie 1](./SD/Eval_1p1_POO_Liste.pdf){target=_blank} [Capytale n° 747d-4440073](https://capytale2.ac-paris.fr/web/c/747d-4440073){target=_blank .md-button .md-button--primary} ;    
 
 
 === "TRAVAIL À FAIRE"
