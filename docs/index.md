@@ -538,7 +538,9 @@ Liens utiles pour des révisions de l'épreuve écrite :
         - [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){target=_blank} [Capytale n° 39ef-4226515](https://capytale2.ac-paris.fr/web/c/39ef-4226515){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){ .md-button .md-button--primary} ;
         - [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){target=_blank} [Capytale n° 48d0-4226569](https://capytale2.ac-paris.fr/web/c/48d0-4226569){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){ .md-button .md-button--primary} ;
     
-    - **Faire** le [DM](./SD/DM_Pile_File.pdf) et la [partie 3](./SD/Eval_1p3_POO_Liste_Pile.pdf){target=_blank} de l'évaluation POO, Liste et Pile ;
+    - **Faire** le [DM](./SD/DM_Pile_File.pdf) et la [partie 3](./SD/Eval_1p3_POO_Liste_Pile.pdf){target=_blank} de l'évaluation 1 POO, Liste et Pile ;
+
+    - **Corriger** la [partie 2](./SD/Eval_1p2_POO_Pile.pdf){target=_blank} de l'évaluation 1 POO et Pile sur [Capytale n° f73d-4596721](https://capytale2.ac-paris.fr/web/c/f73d-4596721){target=_blank} ;    
       
     - **S'entrainer** en réalisant des exercices pratiques :
         
