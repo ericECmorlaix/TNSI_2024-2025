@@ -507,7 +507,24 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
 
 -->
+
 ***
+
+## Du 27/11
+
+=== "CONTENU DE SÉANCE"    
+
+    - Evaluation [écrite](./SD/Hanoi/HANOI_Ecrit.pdf) avec les tours de Hanoï et pratique :
+
+        - [Partie A](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_A.ipynb){target=_blank} [Capytale n° be71-4786809](https://capytale2.ac-paris.fr/web/c/be71-4786809){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_A.ipynb){ .md-button .md-button--primary} ;
+    
+
+=== "TRAVAIL À FAIRE"       
+      
+    - **S'entrainer** en réalisant des [exercices pratiques](https://codex.forge.apps.education.fr){target=_blank} ;     
+        
+***
+
 
 ## Du 05/11
 
