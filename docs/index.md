@@ -509,6 +509,23 @@ Liens utiles pour des révisions de l'épreuve écrite :
 -->
 
 ***
+## Du 02/12
+
+=== "CONTENU DE SÉANCE"    
+
+    - Correction des évaluations [écrite](./SD/Hanoi/HANOI_Ecrit-correction-rouge.pdf) avec les tours de Hanoï et pratique :
+
+        - [Partie A](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_A.ipynb){target=_blank} [Capytale n° be71-4786809](https://capytale2.ac-paris.fr/web/c/be71-4786809){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_A.ipynb){ .md-button .md-button--primary} ;
+        - [Partie B](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_B.ipynb){target=_blank} [Capytale n° 61cd-4789652](https://capytale2.ac-paris.fr/web/c/61cd-4789652){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_B.ipynb){ .md-button .md-button--primary} ;
+        - [Partie C](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_C.ipynb){target=_blank} [Capytale n° 8da6-4807042](https://capytale2.ac-paris.fr/web/c/8da6-4807042){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_C.ipynb){ .md-button .md-button--primary} ;
+
+    
+
+=== "TRAVAIL À FAIRE"       
+      
+    - **S'entrainer** en réalisant des [exercices pratiques](https://codex.forge.apps.education.fr){target=_blank} ;     
+        
+***
 
 ## Du 27/11
 
