@@ -383,130 +383,49 @@ Liens utiles pour des révisions de l'épreuve écrite :
         - [https://colibri.unistra.fr](https://colibri.unistra.fr/fr/course/list/notions-de-base-en-sql){target=_blank} ;
         - [https://sqlzoo.net](https://sqlzoo.net/wiki/SQL_Tutorial){target=_blank} ;
 
-    - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [L-Systeme](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){ .md-button .md-button--primary} ; 
-
-***
-## Le 20/12
-
-=== "CONTENU DE SÉANCE"    
-
-    - Evaluation programmation récursive et liste chainée ; 
-    - **Finir** les parties pratiques de l'application aux tours de Hanoï [B](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_B.ipynb){target=_blank} et [C](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_C.ipynb){target=_blank} ;
-    
-=== "TRAVAIL À FAIRE"
 
     - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
     - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
     - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
     - **Faire** les activités de [L-Systeme](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){ .md-button .md-button--primary} ;  
 
-***
-## Le 07/12
 
-=== "CONTENU DE SÉANCE"    
-
-    - **Analyser** la proposition de correction du notebook [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste-Complet.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste-Complet.ipynb){ .md-button .md-button--primary} ;    
-    - **Lire** la [proposition de correction](./SD/Corrections-DM_POO_Liste.md) de l'évaluation de POO et **Compléter** celle sur les listes chainées ;
-    - **Lire** la [correction](./SD/Correction-DM_Pile_File.pdf) du DM sur les Piles et Files ;
-    - **Lire** en synthèse [programmation récursive](https://glassus.github.io/terminale_nsi/T2_Programmation/2.2_Recursivite/cours/){target=_blank} et [structure linéaire Liste, Pile et File](https://glassus.github.io/terminale_nsi/T1_Structures_de_donnees/1.1_Listes_Piles_Files/cours/){target=_blank} ;
-    - **Faire** [la partie pratique A de l'application aux tours de Hanoï](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_A.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_A.ipynb){ .md-button .md-button--primary} ;
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** [en devoir maison la partie écrite de l'application aux tours de Hanoï](./SD/Hanoi/HANOI_Ecrit.pdf){target=_blank} [:fontawesome-solid-download: Zip du document en MarkDown](./SD/Hanoi/Hanoi.zip){ .md-button .md-button--primary} ;
-    - **Transmettre** par [mail] les notebook [programmation récursive](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/Recursif.ipynb){target=_blank}, [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){target=_blank} et [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){target=_blank} ;
-    - **Poursuivre** les [exercices pratiques des tags POO, Pile, File, Récursivité, ...](https://e-nsi.forge.aeif.fr/pratique/tags/){target=_blank}...
-    - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [L-Systeme](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){ .md-button .md-button--primary} ;  
-
-***
-## Le 28/11
-
-=== "CONTENU DE SÉANCE"    
-
-    - **Finir** les activités du notebook de [programmation récursive](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/Recursif.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/Recursif.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** [la partie écrite de l'application aux tours de Hanoï](./SD/Hanoi/HANOI_Ecrit)
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** [en devoir maison la partie écrite de l'application aux tours de Hanoï](./SD/Hanoi/HANOI_Ecrit.pdf){target=_blank} [:fontawesome-solid-download: Zip du document en MarkDown](./SD/Hanoi/Hanoi.zip){ .md-button .md-button--primary} ;
-    - **Transmettre** par [mail] les notebook [programmation récursive](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/Recursif.ipynb){target=_blank}, [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){target=_blank} et [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){target=_blank} ;
-    - **Poursuivre** les [exercices pratiques des tags POO, Pile, File, Récursivité, ...](https://e-nsi.forge.aeif.fr/pratique/tags/){target=_blank}...
-    - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [L-Systeme](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){ .md-button .md-button--primary} ;  
-
-***
-
-## Le 23/11
-
-=== "CONTENU DE SÉANCE"    
-
-    - **Découvrir** la [programmation récursive](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/Recursif.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/Recursif.ipynb){ .md-button .md-button--primary} ;
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Transmettre** par [mail] les notebook [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){target=_blank} et [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){target=_blank} ;
-    - **Poursuivre** les [exercices pratiques des tags POO, Pile, File, Récursivité, ...](https://e-nsi.forge.aeif.fr/pratique/tags/){target=_blank}...
-
-***
-
-
-## Le 21/11
-
-=== "CONTENU DE SÉANCE"    
-
-    - Correction des exercices [POO](./SD/DM_POO_Liste.pdf){target=_blank} et [Piles et Files](./SD/DM_Pile_File.pdf){target=_blank} des DM ;
-
-    - Devoir surveillé en POO et Pile/File ;
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Transmettre** par [mail] les notebook [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){target=_blank} et [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){target=_blank} ;
-    - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
-
-***
-
-## Le 14 et le 16/11 (2h en autonomie + 1h)
-
-=== "CONTENU DE SÉANCE"    
-
-    - **Finaliser** et **transmettre** par [mail] les notebook [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Liste.ipynb){target=_blank}, [Pile](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-Pile.ipynb){target=_blank} et [File](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Lineaire-File.ipynb){target=_blank} ;
-
-    - **Faire** [le devoir maison sur les Piles et Files](./SD/DM_Pile_File.pdf){target=_blank} ;
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** [le devoir maison sur les Piles et Files](./SD/DM_Pile_File.pdf){target=_blank} pour le jeudi 16/11 ;
-    - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
-
-***
-
-
-
-
-
-## Les 10 et 12/10 (2h + 1h)
-
-=== "CONTENU DE SÉANCE"
-
-    - Propositions de correction pour l'exercice [Série de notes](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/LP/Proposition_Exercice_Notes_Complet.ipynb) en programmation impérative et procédurale avec gestion des erreurs ->==Faire le travail de modularisation démandé== [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/LP/Proposition_Exercice_Notes_Complet.ipynb){ .md-button .md-button--primary};
-
-
-
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** les [exercices pratique de Programmation Orientée Objet](https://e-nsi.forge.aeif.fr/pratique/tags/#7-poo){target=_blank}...
     - **S'entrainer avec Pyxel pour la Nuit du c0de** : [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;
     - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
 
 -->
+
+***
+## Du 06/12
+
+=== "CONTENU DE SÉANCE"
+
+    - **S'inscrire** sur la Khan Academy et **rejoindre** [la classe TNSI_2024-2025 code YBURZUB9](https://fr.khanacademy.org/join/YBURZUB9){target=_blank} pour faire les activités d'initiation à la programmation en langage [SQL](https://fr.khanacademy.org/computing/computer-programming/sql){target=_blank} ;
+    - **Faire** les activités ​du notebook [SQL-Structured_Query_Language](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/BD/SQL-Structured_Query_Language.ipynb){target=_blank}
+    [Capytale n° 4799-4903658](https://capytale2.ac-paris.fr/web/c/4799-4903658){target=_blank .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025//BD/SQL-Structured_Query_Language.ipynb){ .md-button .md-button--primary} ;
+    - **Lire** le notebook [BDR-Bases_de_Donnees_Relationnelles](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/BD/BDR-Bases_de_Donnees_Relationnelles.ipynb){target=_blank}
+    [Capytale n° 0d17-4903819](https://capytale2.ac-paris.fr/web/c/0d17-4903819){target=_blank .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025//BD/BDR-Bases_de_Donnees_Relationnelles.ipynb){ .md-button .md-button--primary} ;
+    - **Regarder** les vidéos :
+        - [Qu'est ce qu'une base de donnees relationnelle ?](https://www.lumni.fr/video/qu-est-ce-qu-une-base-de-donnees-relationnelle){target=_blank} ;
+        - [Interrogation d'une base de donnees relationnelle](https://www.lumni.fr/video/interrogation-d-une-base-de-donnees-relationnelle){target=_blank} ;
+    - **Faire** [SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque.pdf){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** les travaux de mémo SQL et [SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque.pdf){target=_blank} ;
+
+    - **S'entrainer** encore sur les sites :
+        - [https://colibri.unistra.fr](https://colibri.unistra.fr/fr/course/list/notions-de-base-en-sql){target=_blank} ;
+        - [https://sqlzoo.net](https://sqlzoo.net/wiki/SQL_Tutorial){target=_blank} ;
+    
+
+=== "TRAVAIL À FAIRE"       
+      
+    - **Finir** les tours de Hanoï en pratique [Partie C](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_C.ipynb){target=_blank} [Capytale n° 8da6-4807042](https://capytale2.ac-paris.fr/web/c/8da6-4807042){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_C.ipynb){ .md-button .md-button--primary} ;
+    - **S'entrainer** en réalisant des [exercices pratiques](https://codex.forge.apps.education.fr){target=_blank} ;     
+        
 
 ***
 ## Du 02/12
