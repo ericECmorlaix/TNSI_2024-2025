@@ -344,44 +344,11 @@ Liens utiles pour des révisions de l'épreuve écrite :
     
     - Synthèse [BDR-Bases_de_Donnees_Relationnelles](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/BD/BDR-Bases_de_Donnees_Relationnelles.ipynb){target=_blank}, mémo SQL et [SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque.pdf){target=_blank} ;
 
-    - **Faire** les activités ​du notebook [ProtocolesDeRoutage](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){ .md-button .md-button--primary} ;
-    - **appliquer** aux [Exercices sur le Routage](./MR/ExercicesRoutage.pdf)
+   
 
-=== "TRAVAIL À FAIRE"
 
-    - **Rendre** les travaux de mémo SQL et [SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque.pdf){target=_blank} ;
 
-    - **Poursuivre** les activités ​du notebook [SQL-Structured_Query_Language](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/BD/SQL-Structured_Query_Language.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025//BD/SQL-Structured_Query_Language.ipynb){ .md-button .md-button--primary} ;
 
-    - **S'entrainer** encore sur les sites :
-        - [https://colibri.unistra.fr](https://colibri.unistra.fr/fr/course/list/notions-de-base-en-sql){target=_blank} ;
-        - [https://sqlzoo.net](https://sqlzoo.net/wiki/SQL_Tutorial){target=_blank} ;
-
-    - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [L-Systeme](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){ .md-button .md-button--primary} ; 
-
-***
-## Du 09/01
-
-=== "CONTENU DE SÉANCE"
-
-    - **S'inscrire** sur la Khan Academy et **rejoindre** [la classe TNSI_2024-2025 code VG34RDPG](https://fr.khanacademy.org/join/VG34RDPG){target=_blank} pour faire les activités d'initiation à la programmation en langage [SQL](https://fr.khanacademy.org/computing/computer-programming/sql){target=_blank} ;
-    - **Faire** les activités ​du notebook [SQL-Structured_Query_Language](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/BD/SQL-Structured_Query_Language.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025//BD/SQL-Structured_Query_Language.ipynb){ .md-button .md-button--primary} ;
-    - **Lire** le notebook [BDR-Bases_de_Donnees_Relationnelles](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/BD/BDR-Bases_de_Donnees_Relationnelles.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025//BD/BDR-Bases_de_Donnees_Relationnelles.ipynb){ .md-button .md-button--primary} ;
-    - **Regarder** les vidéos :
-        - [Qu'est ce qu'une base de donnees relationnelle ?](https://www.lumni.fr/video/qu-est-ce-qu-une-base-de-donnees-relationnelle){target=_blank} ;
-        - [Interrogation d'une base de donnees relationnelle](https://www.lumni.fr/video/interrogation-d-une-base-de-donnees-relationnelle){target=_blank} ;
-    - **Faire** [SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque.pdf){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Rendre** les travaux de mémo SQL et [SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque.pdf){target=_blank} ;
-
-    - **S'entrainer** encore sur les sites :
-        - [https://colibri.unistra.fr](https://colibri.unistra.fr/fr/course/list/notions-de-base-en-sql){target=_blank} ;
-        - [https://sqlzoo.net](https://sqlzoo.net/wiki/SQL_Tutorial){target=_blank} ;
 
 
     - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
@@ -394,6 +361,32 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
 
 -->
+
+***
+## Du 06/01
+
+=== "CONTENU DE SÉANCE"
+
+    - **Bilan** du notebook [BDR-Bases_de_Donnees_Relationnelles](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/BD/BDR-Bases_de_Donnees_Relationnelles.ipynb){target=_blank}
+    [Capytale n° 0d17-4903819](https://capytale2.ac-paris.fr/web/c/0d17-4903819){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025//BD/BDR-Bases_de_Donnees_Relationnelles.ipynb){ .md-button .md-button--primary} ;
+    
+    - **Revoir** la partie **"Comprendre"** du notebook [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2024-2025/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2024-2025/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e7c0-3876579](https://capytale2.ac-paris.fr/web/c/e7c0-3876579){target=_blank .md-button .md-button--primary } ;
+    
+    - **Faire** les activités ​du notebook [Protocoles de routage](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){target=_blank}
+    [Capytale n° d941-5158450](https://capytale2.ac-paris.fr/web/c/d941-5158450){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){ .md-button .md-button--primary} ;
+    
+    - **Appliquer** aux [Exercices sur le Routage](./MR/ExercicesRoutage.pdf)
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** les travaux de mémo SQL et [SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque.pdf){target=_blank} ;
+    - **Se préparer** pour une évaluation sur les BDR et le SQL ;
+    - **S'entrainer** encore sur les sites :
+        - [https://nreveret.forge.apps.education.fr/exercices_bdd/](https://nreveret.forge.apps.education.fr/exercices_bdd/){target=_blank} ;
+        - [https://colibri.unistra.fr](https://colibri.unistra.fr/fr/course/list/notions-de-base-en-sql){target=_blank} ;
+        - [https://sqlzoo.net](https://sqlzoo.net/wiki/SQL_Tutorial){target=_blank} ;
 
 ***
 ## Du 06/12
@@ -419,9 +412,6 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **S'entrainer** encore sur les sites :
         - [https://colibri.unistra.fr](https://colibri.unistra.fr/fr/course/list/notions-de-base-en-sql){target=_blank} ;
         - [https://sqlzoo.net](https://sqlzoo.net/wiki/SQL_Tutorial){target=_blank} ;
-    
-
-=== "TRAVAIL À FAIRE"       
       
     - **Finir** les tours de Hanoï en pratique [Partie C](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_C.ipynb){target=_blank} [Capytale n° 8da6-4807042](https://capytale2.ac-paris.fr/web/c/8da6-4807042){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Hanoi/HANOI_Pratique_C.ipynb){ .md-button .md-button--primary} ;
     - **S'entrainer** en réalisant des [exercices pratiques](https://codex.forge.apps.education.fr){target=_blank} ;     
