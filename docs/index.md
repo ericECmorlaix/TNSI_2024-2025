@@ -361,6 +361,23 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
 
 -->
+***
+## Le 09/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Eléments de correction de [SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque_COR.pdf){target=_blank} ;
+
+    - Evaluation SGBD-BDR-SQL ;    
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités ​du notebook [Protocoles de routage](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){target=_blank}
+    [Capytale n° d941-5158450](https://capytale2.ac-paris.fr/web/c/d941-5158450){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){ .md-button .md-button--primary} ;
+    
+    - **Appliquer** aux [Exercices sur le Routage](./MR/ExercicesRoutage.pdf)
 
 ***
 ## Du 06/01
