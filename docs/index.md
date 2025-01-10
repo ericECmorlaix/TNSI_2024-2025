@@ -362,6 +362,24 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 -->
 ***
+## Le 10/01
+
+=== "CONTENU DE SÉANCE"
+
+    - [Correction Exercice 1](./BD/EX1-COR_Eval_SQL.pdf) de [l'évaluation SGBD-BDR-SQL](./BD/EX12_Eval_SQL.pdf){target=_blank} ;        
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités ​du notebook [Protocoles de routage](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){target=_blank}
+    [Capytale n° d941-5158450](https://capytale2.ac-paris.fr/web/c/d941-5158450){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){ .md-button .md-button--primary} ;
+    
+    - **Appliquer** aux [Exercices sur le Routage](./MR/ExercicesRoutage.pdf)
+
+    - **Finir** l'exercice 2 de [l'évaluation SGBD-BDR-SQL](./BD/EX12_Eval_SQL.pdf){target=_blank} ;
+
+***
 ## Le 09/01
 
 === "CONTENU DE SÉANCE"
