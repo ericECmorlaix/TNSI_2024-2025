@@ -249,19 +249,6 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 ***
 
-## Du 02/04 
-
-=== "CONTENU DE SÉANCE"
-    
-    - **Faire** les activités ​du notebook [SoC_Processus](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/MR/SoC_Processus.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/SoC_Processus.ipynb){ .md-button .md-button--primary} ;
-    - **appliquer** à l'exercice écrit [l'OS et les Processus](./MR/ExerciceProcessus.pdf) ;
-    - **appliquer** à l'exercice pratique [Temps d'exécution de processus](https://codex.forge.apps.education.fr/en_travaux/ordonnancement/){target=_blank} ;
-  
-=== "TRAVAIL À FAIRE"
-
-   - S'entrainer (==conserver des traces de tous vos exercices dans des `note.md` et/ou des `notebook.ipynb`==) : 
-        - encore [sur les bases de données et le langage SQL](https://e-nsi.forge.aeif.fr/exercices_bdd/){target=_blank} ;
-        - à la programmation en Python pour l'[épreuve pratique](https://codex.forge.apps.education.fr/){target=_blank} et [au-delà](https://e-nsi.forge.aeif.fr/pratique){target=_blank} ;
 
 ***
 
@@ -293,63 +280,14 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 
 ***
-## Du 30/01 
-
-=== "CONTENU DE SÉANCE"
-
-    - **Regarder** la vidéo [les arbres binaires de recherche](https://revoir.tv5monde.com/toutes-les-videos/culture/les-cours-lumni-lycee-cours-du-11-12-2020-3){target=_blank} ;
-
-    - **Lire** et **Faire** les activités ​du notebook [Structure_Arborescente](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Arborescente.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Arborescente.ipynb){ .md-button .md-button--primary} ;
-
-    - **faire** l'[exercice 1](./SD/Exercice_1-arbres.pdf){target=_blank} -> [Correction-Exercice_1-arbres](./SD/Correction-Exercice_1-arbres.pdf){target=_blank} ;
-
-    - **faire** l'[exercice 2](./SD/Exercice_2-arbres.pdf){target=_blank} -> [Correction-Exercice_2-arbres](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Correction-Exercice_2-arbres.ipynb){target=_blank} ; 
-
-     > **Revoir** les [dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
-
-    - **faire** des [exercices pratiques sur les structures arborescentes](https://e-nsi.forge.aeif.fr/pratique/tags/#8-arbre) ;
-
-
-=== "TRAVAIL À FAIRE"
-    - **Poursuivre** les [exercices sur les bases de données](https://e-nsi.forge.aeif.fr/exercices_bdd/){target=_blank} et **rendre** vos travaux de mémo SQL ;
-    - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [L-Systeme](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){ .md-button .md-button--primary} ;
-
-
-***
-## Le 23/01
-
-=== "CONTENU DE SÉANCE"
-    
-    - [Correction SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque_COR.pdf){target=_blank} ;
 
     - [Correction évaluation de programmation récursive](./LP/Correction_evaluation_recursif.pdf){target=_blank} ;
-
     - Correction [Exercices sur le Routage](./MR/ExercicesRoutage.pdf) ;
 
-=== "TRAVAIL À FAIRE"
-
-    - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [L-Systeme](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){ .md-button .md-button--primary} ; 
-
-
-***
-## Du 16/01
-
-=== "CONTENU DE SÉANCE"
-    
-    - Synthèse [BDR-Bases_de_Donnees_Relationnelles](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/BD/BDR-Bases_de_Donnees_Relationnelles.ipynb){target=_blank}, mémo SQL et [SQL-Exercice_Bibliotheque](./BD/SQL-Exercice_Bibliotheque.pdf){target=_blank} ;
-
-   
-
-
-
-
-
+    - **Faire** les activités ​du notebook [SoC_Processus](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/MR/SoC_Processus.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/SoC_Processus.ipynb){ .md-button .md-button--primary} ;
+    - **appliquer** à l'exercice écrit [l'OS et les Processus](./MR/ExerciceProcessus.pdf) ;
+    - **appliquer** à l'exercice pratique [Temps d'exécution de processus](https://codex.forge.apps.education.fr/en_travaux/ordonnancement/){target=_blank} ;
+  
 
     - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
     - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
@@ -358,9 +296,37 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 
     - **S'entrainer avec Pyxel pour la Nuit du c0de** : [POOng-Le_TP_qui_fait_des_bonds](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/POOng/POOng-Le_TP_qui_fait_des_bonds.ipynb){ .md-button .md-button--primary} ;
-    - **Faire tomber la neige avec ipyCanvas** : [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
+
+
+-> [Correction-Exercice_1-arbres](./SD/Correction-Exercice_1-arbres.pdf){target=_blank} ;
+-> [Correction-Exercice_2-arbres](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Correction-Exercice_2-arbres.ipynb){target=_blank}
 
 -->
+***
+## Du 13/01 
+
+=== "CONTENU DE SÉANCE"
+
+    - **Lire** et **Faire** les activités ​du notebook [Structure_Arborescente](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Arborescente.ipynb){target=_blank} 
+    [Capytale n° 6973-5257312](https://capytale2.ac-paris.fr/web/c/6973-5257312){target=_blank .md-button .md-button--primary} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Structure_Arborescente.ipynb){ .md-button .md-button--primary} ;
+
+    - **faire** l'[exercice 1](./SD/Exercice_1-arbres.pdf){target=_blank} ;
+    - **faire** l'[exercice 2](./SD/Exercice_2-arbres.pdf){target=_blank} ; 
+
+     > **Revoir** les [dictionnaires](https://mcoilhac.forge.apps.education.fr/dictionnaires/dictionnaires/05_bilan/){target=_blank} ;
+
+    - **faire** des [exercices pratiques sur les structures arborescentes](https://pratique.forge.apps.education.fr/arbre/) ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités ​du notebook [Protocoles de routage](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){target=_blank}
+    [Capytale n° d941-5158450](https://capytale2.ac-paris.fr/web/c/d941-5158450){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){ .md-button .md-button--primary} ;
+    
+    - **Appliquer** aux [Exercices sur le Routage](./MR/ExercicesRoutage.pdf)
+
+    - **Finir** l'exercice 2 de [l'évaluation SGBD-BDR-SQL](./BD/EX12_Eval_SQL.pdf){target=_blank} ;
+
 ***
 ## Le 10/01
 
