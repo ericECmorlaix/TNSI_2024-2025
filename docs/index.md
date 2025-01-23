@@ -303,6 +303,30 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 -->
 ***
+## Du 23/01 
+
+=== "CONTENU DE SÉANCE"
+
+    - **finir** l'[exercice 2 : structures de données du type arbre binaire](./SD/Exercice_2-arbres.pdf){target=_blank} ; 
+
+     > **Revoir** les [dictionnaires](https://mcoilhac.forge.apps.education.fr/dictionnaires/dictionnaires/05_bilan/){target=_blank} ;
+
+    - **Réviser** et **faire** des [exercices sur les structures arborescentes](https://pratique.forge.apps.education.fr/arbre/) ;
+
+    - **S'entrainer** en réalisant des [exercices pratiques concernant les arbres](https://codex.forge.apps.education.fr/recherche/){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités ​du notebook [Protocoles de routage](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){target=_blank}
+    [Capytale n° d941-5158450](https://capytale2.ac-paris.fr/web/c/d941-5158450){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/ProtocolesDeRoutage.ipynb){ .md-button .md-button--primary} ;
+    
+    - **Appliquer** aux [Exercices sur le Routage](./MR/ExercicesRoutage.pdf)
+
+    - **Finir** l'exercice 2 de [l'évaluation SGBD-BDR-SQL](./BD/EX12_Eval_SQL.pdf){target=_blank} ;
+
+
+***
 ## Du 13/01 
 
 === "CONTENU DE SÉANCE"
