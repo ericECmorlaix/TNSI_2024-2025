@@ -325,6 +325,15 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
     - **Finir** l'exercice 2 de [l'évaluation SGBD-BDR-SQL](./BD/EX12_Eval_SQL.pdf){target=_blank} ;
 
+    - Cybersécurité :
+        - [CTF challenges-kids](https://www.challenges-kids.fr/index.php){target=_blank},
+        - [https://www.root-me.org/](https://www.root-me.org/){target=_blank},
+        - [https://hackropole.fr/fr/](https://hackropole.fr/fr/){target=_blank},
+        - [Passe-ton-hack](https://www.defense.gouv.fr/comcyber/actualites/passe-ton-hack-dabord-2e-edition-elargie-lensemble-du-territoire-francais){target=_blank},
+        - [Red Team Competition](https://esisar.grenoble-inp.fr/fr/recherche/red-team){target=_blank},
+        - [France Cybersecurity Challenge (FCSC)](https://cyber.gouv.fr/france-cybersecurity-challenge-2024){target=_blank},
+        
+        - [Cybersecurite Challenges](https://cybersecurite.forge.apps.education.fr/cyber/3.Challenges/presentation/)... ;
 
 ***
 ## Du 13/01 
