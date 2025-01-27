@@ -326,6 +326,7 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **Finir** l'exercice 2 de [l'évaluation SGBD-BDR-SQL](./BD/EX12_Eval_SQL.pdf){target=_blank} ;
 
     - Cybersécurité :
+        - [https://www.cyber-ninja-ctf.fr/](https://www.cyber-ninja-ctf.fr/){target=_blank},
         - [CTF challenges-kids](https://www.challenges-kids.fr/index.php){target=_blank},
         - [https://www.root-me.org/](https://www.root-me.org/){target=_blank},
         - [https://hackropole.fr/fr/](https://hackropole.fr/fr/){target=_blank},
