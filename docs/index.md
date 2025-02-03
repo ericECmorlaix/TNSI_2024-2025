@@ -314,6 +314,7 @@ Liens utiles pour des révisions de l'épreuve écrite :
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/SoC_Processus.ipynb){ .md-button .md-button--primary} ;
     - **appliquer** à l'exercice écrit [l'OS et les Processus](./MR/ExerciceProcessus.pdf) ;
     - **appliquer** aux exercices pratiques :
+        - [Processus et tourniquet](https://codex.forge.apps.education.fr/en_travaux/tourniquet/){target=_blank} ;
         - [Etat d'un processus](https://codex.forge.apps.education.fr/en_travaux/etat_processus/){target=_blank} ;
         - [Temps d'exécution de processus](https://codex.forge.apps.education.fr/en_travaux/ordonnancement/){target=_blank} ;
 
