@@ -303,6 +303,37 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 -->
 ***
+
+## Du 03/02
+
+
+=== "CONTENU DE SÉANCE"
+
+    - **Faire** les activités ​du notebook [SoC_Processus](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/MR/SoC_Processus.ipynb){target=_blank}
+    [Capytale n° 47b0-5553542](https://capytale2.ac-paris.fr/web/c/47b0-5553542){target=_blank .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/SoC_Processus.ipynb){ .md-button .md-button--primary} ;
+    - **appliquer** à l'exercice écrit [l'OS et les Processus](./MR/ExerciceProcessus.pdf) ;
+    - **appliquer** aux exercices pratiques :
+        - [Etat d'un processus](https://codex.forge.apps.education.fr/en_travaux/etat_processus/){target=_blank} ;
+        - [Temps d'exécution de processus](https://codex.forge.apps.education.fr/en_travaux/ordonnancement/){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Piste de projet support de GO :
+        - Un site de consultation d'une base de données référençant des sujets annales de NSI écrits et pratiques...
+        - Un jeu de sensibilisation à la cybersécurité à destination d'élèves de secondes :
+            - [https://www.cyber-ninja-ctf.fr/](https://www.cyber-ninja-ctf.fr/){target=_blank},
+            - [CTF challenges-kids](https://www.challenges-kids.fr/index.php){target=_blank},
+            - [https://www.root-me.org/](https://www.root-me.org/){target=_blank},
+            - [https://hackropole.fr/fr/](https://hackropole.fr/fr/){target=_blank},
+            - [Passe-ton-hack](https://www.defense.gouv.fr/comcyber/actualites/passe-ton-hack-dabord-2e-edition-elargie-lensemble-du-territoire-francais){target=_blank},
+            - [Red Team Competition](https://esisar.grenoble-inp.fr/fr/recherche/red-team){target=_blank},
+            - [France Cybersecurity Challenge (FCSC)](https://cyber.gouv.fr/france-cybersecurity-challenge-2024){target=_blank},
+            
+            - [Cybersecurite Challenges](https://cybersecurite.forge.apps.education.fr/cyber/3.Challenges/presentation/)... ;
+        - Des tutoriels d'entrainement à la Nuit du Code avec et sans POO...
+
+***
 ## Du 23/01 
 
 === "CONTENU DE SÉANCE"
