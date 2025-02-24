@@ -42,9 +42,6 @@
         - **faire** les activités du notebook [Graphes_parcours_applications](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Graphes_parcours_applications.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Graphes_parcours_applications.ipynb){ .md-button .md-button--primary} ;
 
        
-=== "TRAVAIL À FAIRE"
-    
-    - [Grand Oral](https://eduscol.education.fr/729/presentation-du-grand-oral){target=_blank} ;
 
 
 ***
@@ -184,10 +181,6 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **Lire** la [correction](./SD/Correction-DM_Pile_File.pdf) du DM sur les Piles et Files ;
     - Synthèse [programmation récursive](https://glassus.github.io/terminale_nsi/T2_Programmation/2.2_Recursivite/cours/){target=_blank} et [structure linéaire Liste, Pile et File](https://glassus.github.io/terminale_nsi/T1_Structures_de_donnees/1.1_Listes_Piles_Files/cours/){target=_blank} ;
 
-
-
-***
-
 ***
 ## Les 20 et 21/10 (2h + 1h)
 
@@ -196,8 +189,6 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - Synthèse de [Liste](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Lucien_Structure_Lineaire-Liste.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Lucien_Structure_Lineaire-Liste.ipynb){ .md-button .md-button--primary} ;
     
     - [Evaluation sur la POO et les listes chainées](./SD/Eval_POO_Liste.pdf){target=_blank}  le 20/10.
-
-
 
 ***
 
@@ -239,17 +230,6 @@ Liens utiles pour des révisions de l'épreuve écrite :
     - **Faire** les activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/AL/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/AL/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
 
     - **Préparer** une présentation à l'oral de vos sujets respectifs pour le 07/05 ;
-    
-  
-=== "TRAVAIL À FAIRE"
-
-   - S'entrainer (==conserver des traces de tous vos exercices dans des `note.md` et/ou des `notebook.ipynb`==) : 
-        - encore [sur les bases de données et le langage SQL](https://e-nsi.forge.aeif.fr/exercices_bdd/){target=_blank} ;
-        - à la programmation en Python pour l'[épreuve pratique](https://codex.forge.apps.education.fr/){target=_blank} et [au-delà](https://e-nsi.forge.aeif.fr/pratique){target=_blank} ;
-
-***
-
-
 ***
 
 ## Du 08/02 :
@@ -268,26 +248,8 @@ Liens utiles pour des révisions de l'épreuve écrite :
         - **lire** le [cours](https://dav74.github.io/site_nsi_term/c10c/){target=_blank} et **faire** les [activités](https://dav74.github.io/site_nsi_term/c10a/){target=_blank} puis les [exercices](https://dav74.github.io/site_nsi_term/c10e/){target=_blank} proposés par David ROCHE ;
         - **faire** les activités du notebook [Graphes_parcours_applications](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Graphes_parcours_applications.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Graphes_parcours_applications.ipynb){ .md-button .md-button--primary} ;
 
-       
-=== "TRAVAIL À FAIRE"
-    
-    - **faire** des [exercices pratiques sur les structures arborescentes](https://e-nsi.forge.aeif.fr/pratique/tags/#8-arbre) ;
-    - **Poursuivre** les [exercices sur les bases de données](https://e-nsi.forge.aeif.fr/exercices_bdd/){target=_blank} et **rendre** vos travaux de mémo SQL ;
-    - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [Let_it_snow](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Let_it_snow.ipynb){ .md-button .md-button--primary} ;
-    - **Faire** les activités de [L-Systeme](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/L-Systeme.ipynb){ .md-button .md-button--primary} ; 
-
-
 ***
-
-    - [Correction évaluation de programmation récursive](./LP/Correction_evaluation_recursif.pdf){target=_blank} ;
     - Correction [Exercices sur le Routage](./MR/ExercicesRoutage.pdf) ;
-
-    - **Faire** les activités ​du notebook [SoC_Processus](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/MR/SoC_Processus.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/SoC_Processus.ipynb){ .md-button .md-button--primary} ;
-    - **appliquer** à l'exercice écrit [l'OS et les Processus](./MR/ExerciceProcessus.pdf) ;
-    - **appliquer** à l'exercice pratique [Temps d'exécution de processus](https://codex.forge.apps.education.fr/en_travaux/ordonnancement/){target=_blank} ;
-  
 
     - **Reprendre** en main [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
     - **Faire** les activités de [Fractals_trees_avec_ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Fractals_trees_avec_ipycanvas.ipynb){ .md-button .md-button--primary} ;
@@ -302,6 +264,47 @@ Liens utiles pour des révisions de l'épreuve écrite :
 -> [Correction-Exercice_2-arbres](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Correction-Exercice_2-arbres.ipynb){target=_blank}
 
 -->
+***
+## Du 24/02
+
+=== "CONTENU DE SÉANCE"
+
+    - Point d'avancement concernant SoC et Processus ;
+    
+    - Les graphes :
+
+        - **regarder** la vidéo suivante :
+        
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YYv2R1cCTa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        - **lire** le [cours](https://dav74.github.io/site_nsi_term/c9c/){target=_blank} et **faire** les [activités](https://dav74.github.io/site_nsi_term/c9a/){target=_blank} proposés par David ROCHE ;
+        - **faire** les activités du notebook [Graphes_avec_networkx](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Graphes_avec_networkx.ipynb){target=_blank} 
+        [Capytale n° a2e8-5722835](https://capytale2.ac-paris.fr/web/c/a2e8-5722835){target=_blank .md-button .md-button--primary} 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Graphes_avec_networkx.ipynb){ .md-button .md-button--primary} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** les activités ​du notebook [SoC_Processus](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/MR/SoC_Processus.ipynb){target=_blank} 
+    [Capytale n° 47b0-5553542](https://capytale2.ac-paris.fr/web/c/47b0-5553542){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/MR/SoC_Processus.ipynb){ .md-button .md-button--primary} ;
+    - **Rendre** l'exercice écrit [l'OS et les Processus](./MR/ExerciceProcessus.pdf) ;
+    - **appliquer** aux exercices pratiques suivants en conservant une trace de vos codes sur [Capytale n° ffd8-4491748](https://capytale2.ac-paris.fr/web/c/ffd8-4491748){target=_blank .md-button .md-button--primary}
+        - [Processus et tourniquet](https://codex.forge.apps.education.fr/en_travaux/tourniquet/){target=_blank} ;
+        - [Etat d'un processus](https://codex.forge.apps.education.fr/en_travaux/etat_processus/){target=_blank} ;
+        - [Temps d'exécution de processus](https://codex.forge.apps.education.fr/en_travaux/ordonnancement/){target=_blank} ;
+    
+    - Piste de projet support de [Grand Oral](https://eduscol.education.fr/729/presentation-du-grand-oral){target=_blank} :
+        - Un site de consultation d'une base de données référençant des sujets annales de NSI écrits et pratiques...
+        - Un jeu de sensibilisation à la cybersécurité à destination d'élèves de secondes :
+            - [https://www.cyber-ninja-ctf.fr/](https://www.cyber-ninja-ctf.fr/){target=_blank},
+            - [CTF challenges-kids](https://www.challenges-kids.fr/index.php){target=_blank},
+            - [https://www.root-me.org/](https://www.root-me.org/){target=_blank},
+            - [https://hackropole.fr/fr/](https://hackropole.fr/fr/){target=_blank},
+            - [Passe-ton-hack](https://www.defense.gouv.fr/comcyber/actualites/passe-ton-hack-dabord-2e-edition-elargie-lensemble-du-territoire-francais){target=_blank},
+            - [Red Team Competition](https://esisar.grenoble-inp.fr/fr/recherche/red-team){target=_blank},
+            - [France Cybersecurity Challenge (FCSC)](https://cyber.gouv.fr/france-cybersecurity-challenge-2024){target=_blank},     
+            - [Cybersecurite Challenges](https://cybersecurite.forge.apps.education.fr/cyber/3.Challenges/presentation/)... ;
+        - Des tutoriels d'entrainement à la Nuit du Code avec et sans POO...
 ***
 
 ## Du 03/02
