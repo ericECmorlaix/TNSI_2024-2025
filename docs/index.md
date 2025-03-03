@@ -264,6 +264,14 @@ Liens utiles pour des révisions de l'épreuve écrite :
 -> [Correction-Exercice_2-arbres](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Correction-Exercice_2-arbres.ipynb){target=_blank}
 
 -->
+
+***
+## Le 03/03
+
+=== "CONTENU DE SÉANCE"
+
+    - [BB1](./SU/NSI_BB1_24-25.pdf)
+
 ***
 ## Du 24/02
 
