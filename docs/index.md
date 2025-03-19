@@ -288,9 +288,13 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
         - **faire** les activités du notebook [Graphes_parcours_applications](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Graphes_parcours_applications.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/SD/Graphes_parcours_applications.ipynb){ .md-button .md-button--primary} ;
 
+        - **faire** le [DM sur les graphes](./SD/DM_graphes_2025.pdf) ;
+
 
 === "TRAVAIL À FAIRE"
 
+    - **Rendre** le [DM sur les graphes](./SD/DM_graphes_2025.pdf) ;
+    
     - Piste de projet support de [Grand Oral](https://eduscol.education.fr/729/presentation-du-grand-oral){target=_blank} :
         - Un site de consultation d'une base de données référençant des sujets annales de NSI écrits et pratiques...
         - Un jeu de sensibilisation à la cybersécurité à destination d'élèves de secondes :
