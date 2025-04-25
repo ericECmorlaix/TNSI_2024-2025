@@ -264,6 +264,30 @@ Liens utiles pour des révisions de l'épreuve écrite :
 -> [Correction-Exercice_2-arbres](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/SD/Correction-Exercice_2-arbres.ipynb){target=_blank}
 
 -->
+***
+
+## Le 25/04
+
+=== "CONTENU DE SÉANCE"
+
+    - **Rendre** en PJ d'un mail l'ensemble de vos travaux réalisés sur les graphes ;
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Piste de projet support de [Grand Oral](https://eduscol.education.fr/729/presentation-du-grand-oral){target=_blank} :
+        - Un site de consultation d'une base de données référençant des sujets annales de NSI écrits et pratiques...
+        - Un jeu de sensibilisation à la cybersécurité à destination d'élèves de secondes :
+            - [https://www.cyber-ninja-ctf.fr/](https://www.cyber-ninja-ctf.fr/){target=_blank},
+            - [CTF challenges-kids](https://www.challenges-kids.fr/index.php){target=_blank},
+            - [https://www.root-me.org/](https://www.root-me.org/){target=_blank},
+            - [https://hackropole.fr/fr/](https://hackropole.fr/fr/){target=_blank},
+            - [Passe-ton-hack](https://www.defense.gouv.fr/comcyber/actualites/passe-ton-hack-dabord-2e-edition-elargie-lensemble-du-territoire-francais){target=_blank},
+            - [Red Team Competition](https://esisar.grenoble-inp.fr/fr/recherche/red-team){target=_blank},
+            - [France Cybersecurity Challenge (FCSC)](https://cyber.gouv.fr/france-cybersecurity-challenge-2024){target=_blank},     
+            - [Cybersecurite Challenges](https://cybersecurite.forge.apps.education.fr/cyber/3.Challenges/presentation/)... ;
+        - Des tutoriels d'entrainement à la Nuit du Code avec et sans POO...
 
 ***
 ## Le 03/03
