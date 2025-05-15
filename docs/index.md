@@ -265,6 +265,17 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 -->
 ***
+## Le 15/05
+
+=== "CONTENU DE SÉANCE"
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **s'entrainer** pour l'épreuve écrite avec des [annales](https://toutmonexam.fr/annee.php?y=2024&m=05&xid=1&fid=12&sid=1){target=_blank} ;
+    - **s'entrainer** pour l'épreuve pratique sur [Codex](https://codex.forge.apps.education.fr/exam/){target=_blank} en conservant une trace de vos codes sur [Capytale n° ffd8-4491748](https://capytale2.ac-paris.fr/web/c/ffd8-4491748){target=_blank .md-button .md-button--primary} ;
+***
 
 ## Le 25/04
 
