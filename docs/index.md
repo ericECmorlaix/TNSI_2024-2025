@@ -265,6 +265,11 @@ Liens utiles pour des révisions de l'épreuve écrite :
 
 -->
 ***
+
+- [Programmation dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/TNSI_2024-2025/Dynamique.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TNSI_2024-2025/Dynamique.ipynb){ .md-button .md-button--primary};
+
+
+***
 ## Le 15/05
 
 === "CONTENU DE SÉANCE"
